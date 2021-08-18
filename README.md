@@ -1,3 +1,7 @@
+# Introduction
+
+The purpose of this project was to practice sentiment analysis on a relevant topic. I used twitter's API to gather tweets that mention the COVID-19 vaccine to see how people's reaction to the vaccine changed over time.
+
 # Description of Files
 
 ## Kaggle Notebook
